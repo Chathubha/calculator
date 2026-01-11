@@ -1,0 +1,74 @@
+button{
+    width: 50px; 
+    height: 50px; 
+    font-size: 20px; 
+    background-color: #7e948c;
+    color: white;
+    border-style:double;
+    border-color: white;
+    cursor: pointer;
+    border-radius: 8px;
+}
+#allclear,#eraseone{
+    width: 50px; 
+    height: 50px; 
+    font-size: 16px; 
+    background-color: #b92a32;
+    color: white;
+    border-style:double;
+    border-color: white;
+    cursor: pointer;
+    border-radius: 8px;
+}
+#squre,#module,#mul,#div,#add,#dis,#eql{
+    width: 50px; 
+    height: 50px; 
+    font-size: 18px; 
+    background-color: #b9b61e;
+    color: white;
+    border-style:double;
+    border-color: white;
+    cursor: pointer;
+    border-radius: 8px;
+}
+#calbackground{
+    width: 250px; 
+    height: 430px; 
+    background-color: #323532;
+    border-style:double;
+    border-color: white;
+    cursor: pointer;
+    border-radius: 50px;
+}
+h1
+{
+    color:#1ae7cc ;
+    font-size: 40px;
+    font-style:inherit;
+    padding-top: 40px;
+}
+h2
+{
+    color:#7e948c ;
+    font-style:oblique;
+    padding-top: 0px;
+}
+textarea{
+font-size:25px;
+background-color: white;
+resize: none;
+font-style:italic;
+border-style:ridge;
+border-color: black;
+width: 220px;
+height: 30px;
+border-radius: 5px;
+text-align: right;
+}
+#aligne{
+    padding-top: 20px;
+}
+#background
+{
+    background: linear-gradient(45deg,#000307,#999b97, #ff66eb);
+}
